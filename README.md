@@ -1,4 +1,4 @@
-<h3 align="left">Olá, <br>Me chamo Isabella Calazans. <br>• Bacharel em Ciências da Computação <br>• Desenvolvedor;<br><br>Um eterno estudante buscando evolução e melhoria!</h3>
+<h3 align="left">Olá, <br>Me chamo Isabella Calazans. <br>• Bacharel em Ciências da Computação <br>• Desenvolvedor;<br><br>Uma eterna estudante buscando evolução e desenvolvimento!</h3>
 <br>
 <div align="center">
   <a href="https://github.com/isabellacalazans">
