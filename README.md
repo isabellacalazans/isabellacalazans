@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Isabella+Calazans;I'm+22+years+old+and+I'm+from+Brazil;I+Graduated+in+Computer+Science;An+eternal+student;In+search+of+growth+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center">Eterna estudante em busca da evolução e do desenvolvimento!</h3>
-<br>
 <div align="center">
   <a href="https://github.com/isabellacalazans">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellacalazans&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
