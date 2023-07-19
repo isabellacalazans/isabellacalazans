@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Isabella+Calazans;I'm+22+years+old+and+I'm+from+Brazil;I+Graduated+in+Computer+Science;An+eternal+student;In+search+of+growth+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=18&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Isabella+Calazans;Tenho+22+anos+e+sou+do+Brasil;Sou+Formada+em+Ciência+da+Computação;Uma+eterna+estudante;A+procura+de+crescimento+e+do+desenvolvimento;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/isabellacalazans">
