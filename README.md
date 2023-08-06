@@ -37,7 +37,7 @@
 
 Desenvolvimento do Pac-Man em C#
 
-  Foi desenvolvido uma versão do clássico Pac-Man em C# como parte do portfólio. Através da linguagem C#, pude recriar a experiência nostálgica do jogo original, implementando a movimentação dos personagens, o tabuleiro e a lógica de colisão. Adicionei meu toque pessoal ao projeto, garantindo que a essência do Pac-Man fosse mantida. Essa criação demonstra minha habilidade em desenvolver jogos e minha paixão por projetos desafiadores e envolventes.
+  Foi desenvolvido uma versão do clássico Pac-Man em C# como parte do portfólio. Através da linguagem C#, pude recriar a experiência nostálgica do jogo original, implementando a movimentação dos personagens, o tabuleiro/mapa e a colisão dos personagens. Adicionei meu toque pessoal ao projeto, garantindo que a essência do Pac-Man fosse mantida. Essa criação demonstra minha habilidade em desenvolver jogos e minha paixão por projetos desafiadores e envolventes, além de permitir a exploção da construção e aprender mais sobre as ferramentas e linguagens usadas.
 
 <p align="center">
   <img src="https://github.com/isabellacalazans/isabellacalazans/blob/main/replica%20pacman%201.png?raw=true" alt="Reprodução do Pac-Man" />
