@@ -20,8 +20,8 @@
   <img  alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   <br>
+  
 </div>
-
 <div align="center"> 
   <a href="mailto:isabella.calazans6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabella-calazans-93342b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -29,7 +29,20 @@
   ##
   
 ![Snake animation](https://github.com/isabellacalazans/isabellacalazans/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+# Principais Projetos <br>
+  
+## Pac-Man
+
+Desenvolvimento do Pac-Man em C#
+
+  Foi desenvolvido uma versão do clássico Pac-Man em C# como parte do portfólio. Através da linguagem C#, pude recriar a experiência nostálgica do jogo original, implementando a movimentação dos personagens, o tabuleiro e a lógica de colisão. Adicionei meu toque pessoal ao projeto, garantindo que a essência do Pac-Man fosse mantida. Essa criação demonstra minha habilidade em desenvolver jogos e minha paixão por projetos desafiadores e envolventes.
+
+<p align="center">
+  <img src="https://github.com/isabellacalazans/isabellacalazans/blob/main/replica%20pacman%201.png?raw=true" alt="Reprodução do Pac-Man" />
+</p>
+
+
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
